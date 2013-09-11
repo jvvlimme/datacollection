@@ -1,0 +1,20 @@
+{
+  "name": "ctrack",
+  "version": "0.0.1-13",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "moment": "2.0.x",
+    "mongoose": "3.6.x",
+    "express": "3.2.x",
+    "jade": "latest",
+    "async": "0.2.x",
+    "ua-parser": "latest"
+  },
+  "subdomain": "ctrack",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
